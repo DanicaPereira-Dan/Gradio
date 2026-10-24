@@ -1,3 +1,4 @@
+import numpy as np
 import gradio as gr
 gr.close_all()
 
